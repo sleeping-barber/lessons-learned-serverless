@@ -603,14 +603,15 @@ Careless
 Serverless Architecture on AWS (Peter Sbarski)  
 
 **YouTube**  
-Why the fuzz about Serverless? Simon Wardley  
+Why the fuss about Serverless? Simon Wardley
+Hands-On Serverless Applications with Go  
 
 # EOF
 
 ## Appendix: How to decide to go Serverless?
 
 ```zsh
- ^----------------+------------------+
+  ^----------------+------------------+
   |                |                  |
   |                |                  |
 M |   Re-Design    |    Not you cup   |
