@@ -601,10 +601,10 @@ Careless
 
 **Books**  
 Serverless Architecture on AWS (Peter Sbarski)  
+Hands-On Serverless Applications with Go  
 
 **YouTube**  
 Why the fuss about Serverless? Simon Wardley
-Hands-On Serverless Applications with Go  
 
 # EOF
 
