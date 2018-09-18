@@ -591,7 +591,7 @@ Fn Project
 Epsagon  
 DataBird  
 Sensu  
-Cloudcraft (AWS only)  
+Cloudcraft (AWS only 😢)  
 
 **Frameworks**  
 Serverless  
@@ -601,10 +601,10 @@ Careless
 
 **Books**  
 Serverless Architecture on AWS (Peter Sbarski)  
-Hands-On Serverless Applications with Go  
+Hands-On Serverless Applications with Go (Mohamed Labouardy)  
 
 **YouTube**  
-Why the fuss about Serverless? Simon Wardley
+Why the fuss about Serverless? (Simon Wardley)
 
 # EOF
 
